@@ -22,39 +22,39 @@ namespace StoreGameAPO {
         protected global::System.Web.UI.HtmlControls.HtmlGenericControl background;
         
         /// <summary>
-        /// Controle TextBox0.
+        /// Controle TextBoxNome.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox0;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxNome;
         
         /// <summary>
-        /// Controle TextBox1.
+        /// Controle TextBoxIdade.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox1;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxIdade;
         
         /// <summary>
-        /// Controle TextBox2.
+        /// Controle TextBoxEmail.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox2;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxEmail;
         
         /// <summary>
-        /// Controle TextBox3.
+        /// Controle TextBoxSenha.
         /// </summary>
         /// <remarks>
         /// Campo gerado automaticamente.
         /// Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox3;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxSenha;
     }
 }
